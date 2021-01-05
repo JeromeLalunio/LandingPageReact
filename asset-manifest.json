@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.61d9a692.chunk.css",
+    "main.js": "/landing-page/static/js/main.4db05042.chunk.js",
+    "main.js.map": "/landing-page/static/js/main.4db05042.chunk.js.map",
+    "runtime-main.js": "/landing-page/static/js/runtime-main.7a4ffdab.js",
+    "runtime-main.js.map": "/landing-page/static/js/runtime-main.7a4ffdab.js.map",
+    "static/js/2.903efea8.chunk.js": "/landing-page/static/js/2.903efea8.chunk.js",
+    "static/js/2.903efea8.chunk.js.map": "/landing-page/static/js/2.903efea8.chunk.js.map",
+    "static/js/3.de0f0464.chunk.js": "/landing-page/static/js/3.de0f0464.chunk.js",
+    "static/js/3.de0f0464.chunk.js.map": "/landing-page/static/js/3.de0f0464.chunk.js.map",
+    "index.html": "/landing-page/index.html",
+    "static/css/main.61d9a692.chunk.css.map": "/landing-page/static/css/main.61d9a692.chunk.css.map",
+    "static/js/2.903efea8.chunk.js.LICENSE.txt": "/landing-page/static/js/2.903efea8.chunk.js.LICENSE.txt",
+    "static/media/coco.5e11d332.jpeg": "/landing-page/static/media/coco.5e11d332.jpeg",
+    "static/media/joe.a384428b.jpeg": "/landing-page/static/media/joe.a384428b.jpeg",
+    "static/media/jordan.26a69404.webp": "/landing-page/static/media/jordan.26a69404.webp",
+    "static/media/undraw_A_day_at_the_park_re_9kxj.ba1da922.svg": "/landing-page/static/media/undraw_A_day_at_the_park_re_9kxj.ba1da922.svg",
+    "static/media/undraw_Code_review_re_woeb.486a70a5.svg": "/landing-page/static/media/undraw_Code_review_re_woeb.486a70a5.svg",
+    "static/media/undraw_audio_player_re_cl20.34d30d07.svg": "/landing-page/static/media/undraw_audio_player_re_cl20.34d30d07.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a4ffdab.js",
+    "static/js/2.903efea8.chunk.js",
+    "static/css/main.61d9a692.chunk.css",
+    "static/js/main.4db05042.chunk.js"
+  ]
+}
